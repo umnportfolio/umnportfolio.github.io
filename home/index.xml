@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home-rsses on Austin Quam&#39;s ePortfolio</title>
-    <link>http://localhost:1313/home/index.xml</link>
+    <link>http://umnportfolio.github.io/home/index.xml</link>
     <description>Recent content in Home-rsses on Austin Quam&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

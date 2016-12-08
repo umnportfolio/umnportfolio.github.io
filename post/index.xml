@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Austin Quam&#39;s ePortfolio</title>
-    <link>http://localhost:1313/post/index.xml</link>
+    <link>http://umnportfolio.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on Austin Quam&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Introduction to Blog Function</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <link>http://umnportfolio.github.io/post/post1/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>http://umnportfolio.github.io/post/post1/</guid>
       <description>
 
 &lt;h3 id=&#34;welcome&#34;&gt;Welcome&lt;/h3&gt;

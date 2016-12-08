@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Austin Quam&#39;s ePortfolio</title>
-    <link>http://localhost:1313/tags/cybersecurity/index.xml</link>
+    <link>http://umnportfolio.github.io/tags/cybersecurity/index.xml</link>
     <description>Recent content on Austin Quam&#39;s ePortfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Cyber Threat Vectors for the Private Sector</title>
-      <link>http://localhost:1313/project/ctv/</link>
+      <link>http://umnportfolio.github.io/project/ctv/</link>
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/project/ctv/</guid>
+      <guid>http://umnportfolio.github.io/project/ctv/</guid>
       <description>&lt;p&gt;Project is currently being revised. Check back Spring 2017&lt;/p&gt;
 </description>
     </item>
