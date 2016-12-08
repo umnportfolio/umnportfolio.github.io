@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Austin Quam&#39;s ePortfolio</title>
+    <link>http://localhost:1313/post/index.xml</link>
+    <description>Recent content in Post-rsses on Austin Quam&#39;s ePortfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Austin Quam</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introduction to Blog Function</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>
+
+&lt;h3 id=&#34;welcome&#34;&gt;Welcome&lt;/h3&gt;
+
+&lt;p&gt;Thanks for stopping by this post.&lt;/p&gt;
+
+&lt;p&gt;I plan on using this utility to issue updates on my site that don&amp;rsquo;t merit the addition of a new project or publication.&lt;/p&gt;
+
+&lt;p&gt;Additionally, I will be using posts to notify readers when publications will be uploaded and/or establish a timeline for new content.&lt;/p&gt;
+
+&lt;h3 id=&#34;collaboration-opportunities&#34;&gt;Collaboration Opportunities&lt;/h3&gt;
+
+&lt;p&gt;I am currently focusing my time on the Syncurator Project, which you can read about under my &amp;ldquo;projects&amp;rdquo; section at the bottom of the main page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I am looking for talent to join the Syncurator Project&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have skills in the following areas AND are fine with working for free - please contact me through social networks or through email.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Legal Knowledge&lt;/p&gt;
+
+&lt;p&gt;Development&lt;/p&gt;
+
+&lt;p&gt;IT Infrastructure&lt;/p&gt;
+
+&lt;p&gt;Technical Communication&lt;/p&gt;
+
+&lt;p&gt;Data Science&lt;/p&gt;
+
+&lt;p&gt;Cloud Development, Security, or Provisioning&lt;/p&gt;
+
+&lt;p&gt;Negotiation&lt;/p&gt;
+
+&lt;p&gt;Community Organizing&lt;/p&gt;
+
+&lt;p&gt;Net Neutrality/Copyright/DMCA&lt;/p&gt;
+
+&lt;p&gt;Reverse Engineering of Software&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you do not fit into the above criteria but feel that you can deliver some value to the Syncurator organization, feel free to reach out to me and provide me with an idea of your skill set.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading this post, and I hope that you enjoy your time on this site!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
